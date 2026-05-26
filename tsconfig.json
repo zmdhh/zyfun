@@ -1,11 +1,14 @@
-[
-  {
-    "key": "hsck",
-    "name": "红色仓库",
-    "api": "https://hsckzy.vip/api.php/provide/vod",
-    "type": 0,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  }
-]
+
+{
+  "urls": [
+    {
+      "key": "hsck",
+      "name": "红色仓库",
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "type": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
