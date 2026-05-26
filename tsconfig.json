@@ -1,14 +1,15 @@
 {
-  "tsDecorators": "legacy",
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.node.json" },
-    { "path": "./tsconfig.web.json" }
+  "sites": [
+    {
+      "key": "hsck",
+      "name": "红色仓库",
+      "type": 0,
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
   ],
-  "compilerOptions": {
-    "experimentalDecorators": true,
-    "emitDecoratorMetadata": true,
-    "useDefineForClassFields": true,
-    "baseUrl": ".",
-  }
+  "lives": [],
+  "parses": []
 }
