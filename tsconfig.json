@@ -1,9 +1,11 @@
 {
+  "privateKey": "404",
   "sources": [
     {
       "name": "红色仓库",
       "url": "https://hsckzy.vip/api.php/provide/vod",
       "playerName": {},
+      "blockTypeIds": [],
       "blockTypeName": [],
       "blockAdsRule": [],
       "desc": ""
